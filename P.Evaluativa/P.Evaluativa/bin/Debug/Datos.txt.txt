@@ -1,0 +1,19 @@
+1, Jesus, Cajero, 20
+2, Jose , Mesero, 22
+3, Maria, Enfermera, 23
+4, Juana, Medico, 33
+5, Daniel, Ingeniero, 44
+6, Manuel, Licenciado, 56
+7, Angel, Psicologo, 18
+8, Emilio, Cyber, 29
+9, Jaime, Chofer, 25
+10, Eduardo, Chef, 45
+11, Vicente, Diputado, 56
+12, Isaiah, Mesero, 32
+13, Enrique, barbero, 15
+14, Humberto, Cocinero, 25
+15, Eriberto, Sembrador, 36
+16, Joshua, Granjero, 33
+17, Abraham, Cirquero, 26
+18, Alfredo, N/A, 15
+

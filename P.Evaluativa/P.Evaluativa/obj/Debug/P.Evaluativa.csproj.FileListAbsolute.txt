@@ -1,0 +1,7 @@
+c:\users\itt\source\repos\P.Evaluativa\P.Evaluativa\bin\Debug\P.Evaluativa.exe.config
+c:\users\itt\source\repos\P.Evaluativa\P.Evaluativa\bin\Debug\P.Evaluativa.exe
+c:\users\itt\source\repos\P.Evaluativa\P.Evaluativa\bin\Debug\P.Evaluativa.pdb
+c:\users\itt\source\repos\P.Evaluativa\P.Evaluativa\obj\Debug\P.Evaluativa.csprojAssemblyReference.cache
+c:\users\itt\source\repos\P.Evaluativa\P.Evaluativa\obj\Debug\P.Evaluativa.csproj.CoreCompileInputs.cache
+c:\users\itt\source\repos\P.Evaluativa\P.Evaluativa\obj\Debug\P.Evaluativa.exe
+c:\users\itt\source\repos\P.Evaluativa\P.Evaluativa\obj\Debug\P.Evaluativa.pdb
